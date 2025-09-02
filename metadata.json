@@ -1,0 +1,5 @@
+{
+  "name": "Frikipet Next Haircut",
+  "description": "Una aplicación que usa IA para visualizar diferentes estilos de peluquería en tu mascota. Sube una foto de tu perro o gato, describe el corte de pelo deseado y ve una vista previa realista de su nuevo look.",
+  "requestFramePermissions": []
+}
