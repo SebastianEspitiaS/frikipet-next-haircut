@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
@@ -7,12 +6,11 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1t0WFMN9-ih_LoReBciLDl3QH1hPF_xmm
+View your app in AI Studio: <https://ai.studio/apps/drive/1t0WFMN9-ih_LoReBciLDl3QH1hPF_xmm>
 
 ## Run Locally
 
 **Prerequisites:**  Node.js
-
 
 1. Install dependencies:
    `npm install`
@@ -20,6 +18,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1t0WFMN9-ih_LoReBciLDl3
 3. Run the app:
    `npm run dev`
 =======
+
 # frikipet-next-haircut
-Ver corte ideal para tu mascota 
->>>>>>> 242fdd6d432d77561eb8b804d5efe9b30237659e
+
+Ver corte ideal para tu mascota
